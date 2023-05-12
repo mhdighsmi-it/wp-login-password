@@ -1,0 +1,17 @@
+{
+    "name": "mhdighsmi/soalwp-login-password",
+    "description": "wp login with password",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "mhdighsmi.it",
+            "email": "mhdi.ghsmi72@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"SOLP\\":"./inc"}
+    },
+    "require": {}
+}

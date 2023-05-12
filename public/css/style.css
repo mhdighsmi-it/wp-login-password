@@ -1,0 +1,32 @@
+@media(min-width:768px){
+.solo {
+    width: 40%;
+}
+}
+.solo {
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 8px 0 #c8c8c8;
+}
+.wrap_solo input{
+    width: 100% !important;
+    margin: 10px 0;
+    max-width: 100%;
+    padding: 10px;
+}
+.wrap_solo #btn-login{
+    border: 0;
+    background: green;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.wrap_solo .requierd{
+    color: red;
+    position: absolute;
+    left: 10px;
+    top: 19px;
+}
+.wrap_solo .input{
+    position:relative;
+}
